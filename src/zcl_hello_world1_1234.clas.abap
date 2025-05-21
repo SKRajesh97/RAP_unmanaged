@@ -12,7 +12,7 @@ ENDCLASS.
 
 
 
-CLASS zcl_hello_world1_1234 IMPLEMENTATION.
+CLASS ZCL_HELLO_WORLD1_1234 IMPLEMENTATION.
 
 
   METHOD if_oo_adt_classrun~main.
